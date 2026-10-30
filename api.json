@@ -1,0 +1,27 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "天津联通IPTV-组播直连",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/bxy0128/tianjin-unicom-iptv@main/iptv.m3u",
+      "playerType": 1,
+      "ua": "",
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "name": "天津联通IPTV-GitHub原始地址",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/bxy0128/tianjin-unicom-iptv/main/iptv.m3u",
+      "playerType": 1,
+      "ua": "",
+      "epg": "",
+      "logo": ""
+    }
+  ],
+  "parses": [],
+  "flags": [],
+  "spider": "",
+  "wallpaper": ""
+}
